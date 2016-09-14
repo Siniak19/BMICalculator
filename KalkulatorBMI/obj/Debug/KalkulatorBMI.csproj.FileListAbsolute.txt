@@ -1,0 +1,11 @@
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\bin\Debug\KalkulatorBMI.exe.config
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\bin\Debug\KalkulatorBMI.exe
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\bin\Debug\KalkulatorBMI.pdb
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\obj\Debug\KalkulatorBMI.Form1.resources
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\obj\Debug\KalkulatorBMI.Properties.Resources.resources
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\obj\Debug\KalkulatorBMI.csproj.GenerateResource.Cache
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\obj\Debug\KalkulatorBMI.exe
+D:\ProgramData\Visual Studio 2015\Projects\KalkulatorBMI\KalkulatorBMI\obj\Debug\KalkulatorBMI.pdb
+D:\GitHub\BMICalculator\KalkulatorBMI\bin\Debug\KalkulatorBMI.exe.config
+D:\GitHub\BMICalculator\KalkulatorBMI\obj\Debug\KalkulatorBMI.exe
+D:\GitHub\BMICalculator\KalkulatorBMI\obj\Debug\KalkulatorBMI.pdb
